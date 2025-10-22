@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">POS Product Manager</string>
+    <string name="product_list">Product List</string>
+    <string name="add_product">Add Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price</string>
+    <string name="product_stock">Stock</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="no_products">No products yet. Add your first product!</string>
+    <string name="name_required">Name is required</string>
+    <string name="price_required">Price is required</string>
+    <string name="invalid_price">Invalid price</string>
+    <string name="invalid_stock">Invalid stock</string>
+</resources>
